@@ -1,1 +1,2 @@
-end
+program main
+end program
